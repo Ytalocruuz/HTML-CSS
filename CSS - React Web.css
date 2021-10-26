@@ -49,13 +49,35 @@ p {
     border: 4px  dashed rosybrown;
     margin: 20px;
     padding: 9px;
-    
-    
-
 }
 
 .Imgg {
     margin: 10px;
     border-radius: 40px;
+}
+
+.flex_item{
+    display: flex;
+    font-size: 20px;
+}
+
+.flex-comtainer {
+    display: flex;
+    list-style: none;
+}
+
+.flex-item {
+  background-color:rosybrown ;
+  height: 50px;
+  width: 50px;
+  line-height: 50px;
+  font-size: 20px;
+  text-align: center;
+  margin: 10px;
+  color:bisque
+}
+.column {
+    display: flex;
+    flex-direction: row;
 }
 

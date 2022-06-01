@@ -4,4 +4,8 @@
 
 ## Print dos efeitos
 
-![print1origem](https://user-images.githubusercontent.com/72119120/171340857-76d8ab2f-e2ae-4e6f-800c-a5a45b437d1a.gif)
+![print1origem](https://user-images.githubusercontent.com/72119120/171343774-637a6fa1-3371-4f70-8a49-f64cc913f615.gif)
+
+![print2origem](https://user-images.githubusercontent.com/72119120/171344411-fa78aea3-70db-4447-bc63-6923ec357d91.gif)
+
+![print4origem](https://user-images.githubusercontent.com/72119120/171344549-58a44d1a-53d6-4208-b2a4-0241d30076d2.gif)
